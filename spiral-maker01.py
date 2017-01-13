@@ -6,7 +6,7 @@ turtle1 = turtle.Turtle()
 
 wn = turtle.Screen()
 wn.bgcolor("lightgreen")
-colors = ("blue","red","green","pink","gray")
+colors = ("blue","red","green","yellow","gray")
 for s in range(5):
     x = 10
     c = random.randint(0,len(colors)-1)
