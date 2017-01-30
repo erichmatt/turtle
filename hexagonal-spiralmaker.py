@@ -3,6 +3,7 @@ d = input("enter amount of iterations: ")
 
 import turtle
 screen = turtle.Screen()
+screen.bgcolor("light blue")
 turtle0 = turtle.Turtle()
 turtle0.color("dark blue")
 x = 2
